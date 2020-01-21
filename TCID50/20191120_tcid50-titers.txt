@@ -1,0 +1,3 @@
+Here are the computed titers in TCID50 per ul.
+HongKong-wildtype/PR8:	4328.761
+Perth-wildtype/PR8:	316.228

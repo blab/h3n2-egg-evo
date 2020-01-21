@@ -1,0 +1,4 @@
+Here are the computed titers in TCID50 per ul.
+egg1:	3.981
+egg2:	0.251
+egg3:	6.996

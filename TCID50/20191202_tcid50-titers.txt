@@ -1,0 +1,2 @@
+Here are the computed titers in TCID50 per ul.
+HongKong-186V/PR8:	2.512

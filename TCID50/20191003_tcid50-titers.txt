@@ -1,0 +1,4 @@
+Here are the computed titers in TCID50 per ul.
+HongKong/PR8:	1778.279
+Perth/PR8:	56.234
+Perth/WSN:	2511.886
